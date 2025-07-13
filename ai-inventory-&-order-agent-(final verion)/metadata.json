@@ -1,0 +1,8 @@
+{
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "name": "AI Inventory & Order Agent (v2.2)",
+  "description": "",
+  "prompt": ""
+}
